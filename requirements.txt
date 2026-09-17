@@ -1,0 +1,3 @@
+numpy>=1.24,<3
+# Install the MindSpore build matching your CPU/Ascend environment from the official guide.
+# mindspore==<verified-version>
